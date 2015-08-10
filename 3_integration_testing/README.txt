@@ -1,4 +1,4 @@
-Readme2: intergration_testing
+Readme: intergration_testing
 
 
 ---- ---- Encrypted Chat Software ---- ----
